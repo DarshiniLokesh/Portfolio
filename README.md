@@ -5,15 +5,7 @@
  
 </h2>
 
-<p align="center">
-  <a href="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love"/></a>
-  <a href="https://forthebadge.com/images/badges/made-with-javascript.svg"><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="made with javascript"/></a>
-  <a href="https://forthebadge.com/images/badges/open-source.svg"><img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source"/></a>
-  <img src="https://img.shields.io/github/stars/DarshiniLokesh/Portfolio?color=red&logo=github&style=for-the-badge" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/DarshiniLokesh/Portfolio?color=red&logo=github&style=for-the-badge" alt="GitHub forks"/>
-</p>
 
----
 
 ## Overview
 
@@ -58,8 +50,5 @@ Clone this repository. You will need `node.js` and `git` installed globally on y
 - Update your information, images, and project links as needed.
 - To change the resume, replace the PDF and image in `/src/Assets/` and update the import in `ResumeNew.js`.
 
-## Show your support
-
-Give a ⭐ if you like this website!
 
 
