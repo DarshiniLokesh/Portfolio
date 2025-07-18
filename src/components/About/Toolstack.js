@@ -13,17 +13,33 @@ function Toolstack() {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       
       <Col xs={4} md={2} className="tech-icons">
-        <SiGithub />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <FaMousePointer />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
-      </Col>
+  <SiGithub />
+</Col>
+<Col xs={4} md={2} className="tech-icons">
+  <SiPostman />
+</Col>
+<Col xs={4} md={2} className="tech-icons">
+  <SiVercel />
+</Col>
+<Col xs={4} md={2} className="tech-icons">
+  <SiStripe />
+</Col>
+<Col xs={4} md={2} className="tech-icons">
+  <SiMongodb />
+</Col>
+<Col xs={4} md={2} className="tech-icons">
+  <SiPostgresql /> {/* NeonDB is Postgres-based */}
+</Col>
+<Col xs={4} md={2} className="tech-icons">
+  <SiVisualstudiocode />
+</Col>
+<Col xs={4} md={2} className="tech-icons">
+  <SiSass /> {/* for SCSS */}
+</Col>
+<Col xs={4} md={2} className="tech-icons">
+  <FaNodeJs />
+</Col>
+
     </Row>
   );
 }
