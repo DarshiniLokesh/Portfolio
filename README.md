@@ -2,13 +2,8 @@
 
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://darshiniklokesh.vercel.app/" target="_blank">darshiniklokesh.vercel.app</a>
+ 
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
 
 <p align="center">
   <a href="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love"/></a>
@@ -30,7 +25,7 @@ This is the personal portfolio website of **Darshini Lokesh**. It features selec
 - React-Bootstrap
 - CSS3 / SCSS
 - Vercel (for deployment)
-- Visual Studio Code
+- Cursor
 
 ## Features
 
