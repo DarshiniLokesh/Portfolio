@@ -3,10 +3,13 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiPostman,
   SiVercel,
-  SiMacos,
   SiGithub,
+  SiStripe,
+  SiMongodb,
+  SiVisualstudiocode,
+  
 } from "react-icons/si";
-import { FaMousePointer } from "react-icons/fa";
+
 
 function Toolstack() {
   return (
@@ -27,18 +30,12 @@ function Toolstack() {
 <Col xs={4} md={2} className="tech-icons">
   <SiMongodb />
 </Col>
-<Col xs={4} md={2} className="tech-icons">
-  <SiPostgresql /> {/* NeonDB is Postgres-based */}
-</Col>
+
 <Col xs={4} md={2} className="tech-icons">
   <SiVisualstudiocode />
 </Col>
-<Col xs={4} md={2} className="tech-icons">
-  <SiSass /> {/* for SCSS */}
-</Col>
-<Col xs={4} md={2} className="tech-icons">
-  <FaNodeJs />
-</Col>
+
+
 
     </Row>
   );
